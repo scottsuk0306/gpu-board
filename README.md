@@ -96,3 +96,4 @@ If you encounter any issues or have questions, please [open an issue](https://gi
 ## 🚀 Roadmap
 
 - [ ] Support installation through pip
+- [ ] Dockerize
