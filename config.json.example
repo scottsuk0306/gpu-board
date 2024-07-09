@@ -1,0 +1,6 @@
+{
+  "servers": [
+    {"hostname": "example.com", "username": "user", "password": "pass", "port": 22},
+    {"hostname": "example.org", "username": "user", "port": 22, "key_filename": "path/to/key.pem"}
+  ]
+}
